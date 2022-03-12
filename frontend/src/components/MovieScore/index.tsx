@@ -3,7 +3,7 @@ import './styles.css';
 
 function MovieScore() {
 
-    const score = 4.5;
+    const score = 3.5;
     const count = 14;
 
     return (
